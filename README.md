@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br>
 
 ## 🛠️ Tech Stack
 
