@@ -11,13 +11,15 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Cursando **Engenharia de Software**.
-- 💻 Desenvolvendo meus conhecimentos em **Python, HTML5, CSS3, Git e GitHub**.
-- 🌱 Aprendendo mais sobre **Desenvolvimento Full Stack, lógica de programação e desenvolvimento de aplicações**.
-- 🚀 Transformando meus estudos em **projetos práticos** para evoluir como desenvolvedor.
-- 🎯 Buscando minha primeira oportunidade na área de **Desenvolvimento de Software**.
-
+```
+-  Explorando novas tecnologias e desenvolvendo soluções de software.
+-  Cursando Engenharia de Software.
+-  Desenvolvendo meus conhecimentos em Python, HTML5, CSS3, Git e GitHub.
+-  Aprendendo mais sobre Desenvolvimento Full Stack, lógica de programação e desenvolvimento de aplicações.
+-  Transformando meus estudos em projetos práticos para evoluir como desenvolvedor.
+-  Buscando minha primeira oportunidade na área de Desenvolvimento de Software.
+```
+ 
 ## Minhas Skills
 
 **Linguagens e Tecnologias**
