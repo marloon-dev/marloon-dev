@@ -55,7 +55,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marloon-dev/)](https://www.linkedin.com/in/marloon-dev/)
+[![Linkedin](https://img.shields.io/badge/-Marloon--dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marloon-dev/)](https://www.linkedin.com/in/marloon-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-marloon.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marloon.dev@gmail.com)](mailto:marloonm.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/marloon-dev?label=follow&style=social)](https://github.com/marloon-dev/marloon-dev)
 <br>
