@@ -22,19 +22,19 @@
 
 **Linguagens e Tecnologias**
 
-[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,html,css,py,supabase,)](https://skillicons.dev)
+[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,html,css,py,supabase,wordpress)](https://skillicons.dev)
 
 **Utilidades**
 
-[![Ultilidas](https://skillicons.dev/icons?i=js,html,css,py,supabase,)](https://skillicons.dev)
+[![Ultilidas](https://skillicons.dev/icons?i=notion,postman,)](https://skillicons.dev)
 
 **DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=notion,)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=github,git,)](https://skillicons.dev)
 
 **Ferramentas de Desenvolvimento**
 
-[![Ferramentas de Desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ia)](https://skillicons.dev)
+[![Ferramentas de Desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ai,)](https://skillicons.dev)
 
 
 ## Onde me encontrar
