@@ -39,7 +39,7 @@
 
 **Rede Sociais**
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marloon-dev/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marloon-dev/){target="_blank"}
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/marloon-dev/marloon-dev)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marloon.dev/)
 [![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/marloon-dev)
