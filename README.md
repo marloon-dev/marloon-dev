@@ -12,9 +12,11 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando **Engenharia de Software**.
+- 💻 Desenvolvendo meus conhecimentos em **Python, HTML5, CSS3, Git e GitHub**.
+- 🌱 Aprendendo mais sobre **Desenvolvimento Full Stack, lógica de programação e desenvolvimento de aplicações**.
+- 🚀 Transformando meus estudos em **projetos práticos** para evoluir como desenvolvedor.
+- 🎯 Buscando minha primeira oportunidade na área de **Desenvolvimento de Software**.
 
 ## Minhas Skills
 
@@ -22,7 +24,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
@@ -42,7 +44,7 @@
 ![Antigravity](https://img.shields.io/badge/-Antigravity-333333?style=flat&logo=Antigravity&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=Photoshop&logoColor=007ACC)
+![Photoshop](https://img.shields.io/badge/-adobephotoshop-333333?style=flat&logo=adobephotoshop&logoColor=007ACC)
 ![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=Gimp&logoColor=007ACC)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=Illustrator&logoColor=007ACC)
 ![Corel Draw](https://img.shields.io/badge/-Coreldraw-333333?style=flat&logo=Coreldraw&logoColor=007ACC)
@@ -55,7 +57,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marloon-dev/)](https://www.linkedin.com/in/marloon-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-marloon.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marloon.dev@gmail.com)](mailto:marloonm.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/marloon-dev/marloon-dev)
+[![GitHub](https://img.shields.io/github/followers/marloon-dev?label=follow&style=social)](https://github.com/marloon-dev/marloon-dev)
 <br>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
