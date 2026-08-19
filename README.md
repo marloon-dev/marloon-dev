@@ -36,7 +36,6 @@
 
 [![Ferramentas de Desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ai,)](https://skillicons.dev)
 
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Marloon--dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marloon-dev/)](https://www.linkedin.com/in/marloon-dev/)
