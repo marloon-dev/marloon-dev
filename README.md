@@ -22,30 +22,20 @@
 
 **Linguagens e Tecnologias**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,html,css,py,supabase,)](https://skillicons.dev)
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+[![Ultilidas](https://skillicons.dev/icons?i=js,html,css,py,supabase,)](https://skillicons.dev)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+[![DevOps](https://skillicons.dev/icons?i=notion,)](https://skillicons.dev)
 
-**Ferramentas de desenvolvimento**
+**Ferramentas de Desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=Gimp&logoColor=007ACC)
-![Corel Draw](https://img.shields.io/badge/-Coreldraw-333333?style=flat&logo=Coreldraw&logoColor=007ACC)
-![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=Inkscape&logoColor=007ACC)
+[![Ferramentas de Desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ia)](https://skillicons.dev)
+
 
 ## Onde me encontrar
 
