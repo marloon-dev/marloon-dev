@@ -39,14 +39,17 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Antigravity](https://img.shields.io/badge/-Antigravity-333333?style=flat&logo=Antigravity&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=Photoshop&logoColor=007ACC)
+![Gimp](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=Gimp&logoColor=007ACC)
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=Illustrator&logoColor=007ACC)
+![Corel Draw](https://img.shields.io/badge/-Coreldraw-333333?style=flat&logo=Coreldraw&logoColor=007ACC)
+![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=Inkscape&logoColor=007ACC)
+![HandBrake](https://img.shields.io/badge/-HandBrake-333333?style=flat&logo=HandBrake&logoColor=007ACC)
+![ShotCut](https://img.shields.io/badge/-ShotCut-333333?style=flat&logo=ShotCut&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/marloon-dev" title="Perfil do Marloon-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marloon-dev&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
