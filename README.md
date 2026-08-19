@@ -20,7 +20,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens e Tecnologias**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -51,7 +51,6 @@
 ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=Inkscape&logoColor=007ACC)
 ![HandBrake](https://img.shields.io/badge/-HandBrake-333333?style=flat&logo=HandBrake&logoColor=007ACC)
 ![ShotCut](https://img.shields.io/badge/-ShotCut-333333?style=flat&logo=ShotCut&logoColor=007ACC)
-
 
 ## Onde me encontrar
 
