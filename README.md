@@ -29,7 +29,7 @@
 
 **DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=github,git&theme=light)](https://github.com/marloon-dev/marloon-dev)
+[![DevOps](https://skillicons.dev/icons?i=github,git,linux&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 **Ferramentas de Desenvolvimento**
 
