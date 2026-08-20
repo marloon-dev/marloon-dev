@@ -21,29 +21,29 @@
 
 **Linguagens e Tecnologias**
 
-[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,html,css,py,supabase,wordpress)](https://github.com/marloon-dev/marloon-dev)
+[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,html,css,py,supabase,wordpress&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 **Utilidades**
 
-[![Ultilidas](https://skillicons.dev/icons?i=notion,postman,)](https://github.com/marloon-dev/marloon-dev)
+[![Ultilidas](https://skillicons.dev/icons?i=notion,postman&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 **DevOps**
 
-[![DevOps](https://skillicons.dev/icons?i=github,git,)](https://github.com/marloon-dev/marloon-dev)
+[![DevOps](https://skillicons.dev/icons?i=github,git&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 **Ferramentas de Desenvolvimento**
 
-[![Ferramentas de Desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ai,)](https://github.com/marloon-dev/marloon-dev)
+[![Ferramentas de Desenvolvimento](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ai&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 ## Onde me encontrar
 
 **Rede Sociais**
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marloon-dev/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/marloon-dev/marloon-dev)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/marloon.dev/)
-[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/marloon-dev)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marloon.dev@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/marloon-dev/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/marloon-dev/marloon-dev)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/marloon.dev/)
+[![Dev.to](https://skillicons.dev/icons?i=devto&theme=light)](https://dev.to/marloon-dev)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:marloon.dev@gmail.com)
 
 <br>
 
