@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-[![GitHub](https://img.shields.io/github/followers/marloon-dev?label=follow&style=social)](https://github.com/marloon-dev/marloon-dev)
+[![GitHub](https://img.shields.io/github/followers/marloon-dev?label=follow&style=social)](https://github.com/marloon-dev)
 
-<a href="https://github.com/marloon-dev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=marlooon-dev&style=for-the-badge">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=marloon-dev&style=for-the-badge" alt="Visitas ao perfil">
 </a>
 
 ## Sobre mim
@@ -17,6 +17,15 @@
 -  Buscando minha primeira oportunidade na área de Desenvolvimento de Software.
 ```
  
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**ONG Vidas em Ação**](https://github.com/marloon-dev/projeto-ong) · [ver site](https://marloon-dev.github.io/projeto-ong/) | Site institucional acessível, com design system, tema claro/escuro, galeria e formulário com validação. Testado com Playwright e CI no GitHub Actions. | HTML, CSS, JavaScript, Playwright |
+| [**Landing Page**](https://github.com/marloon-dev/landing-page) · [ver site](https://marloon-dev.github.io/landing-page/) | Landing page responsiva. | HTML, CSS |
+| [**Cordel Moderno**](https://github.com/marloon-dev/Projeto-cordel) · [ver site](https://marloon-dev.github.io/Projeto-cordel/) | Poema de Milton Duarte com efeito *parallax*. | HTML, CSS |
+| [**Python**](https://github.com/marloon-dev/Python) | Exercícios de programação de computadores. | Python |
+
 ## Minhas Skills
 
 **Linguagens e Tecnologias**
@@ -25,7 +34,7 @@
 
 **Utilidades**
 
-[![Ultilidas](https://skillicons.dev/icons?i=notion,postman&theme=light)](https://github.com/marloon-dev/marloon-dev)
+[![Utilidades](https://skillicons.dev/icons?i=notion,postman&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 **DevOps**
 
@@ -37,16 +46,19 @@
 
 ## Onde me encontrar
 
-**Rede Sociais**
+**Redes sociais**
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/marloon-dev/)
-[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/marloon-dev/marloon-dev)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/marloon-dev)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/marloon.dev/)
 [![Dev.to](https://skillicons.dev/icons?i=devto&theme=light)](https://dev.to/marloon-dev)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:marloon.dev@gmail.com)
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marloon-dev/marloon-dev/output/github-snake-dark.svg">
+  <img alt="Cobrinha a percorrer o meu gráfico de contribuições" src="https://raw.githubusercontent.com/marloon-dev/marloon-dev/output/github-snake.svg" width="100%">
+</picture>
 
 <br>
