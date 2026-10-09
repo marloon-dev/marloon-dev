@@ -30,7 +30,7 @@
 
 **Linguagens e Tecnologias**
 
-[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,html,css,py,supabase,wordpress&theme=light)](https://github.com/marloon-dev/marloon-dev)
+[![Linguagens e Tecnologias](https://skillicons.dev/icons?i=js,ts,html,css,py,supabase,wordpress&theme=light)](https://github.com/marloon-dev/marloon-dev)
 
 **Utilidades**
 
