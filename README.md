@@ -33,7 +33,7 @@ Transforma o WhatsApp numa **API REST programável**, com um painel completo par
 - 📧 **Encaminhamento por e-mail** das conversas, com mídia anexada
 - 👥 **Multiusuário** com papéis (superadmin, dono e equipe)
 - 🎨 Tema **claro e escuro**, fotos de perfil e interface em **14 idiomas**
-- 🍎 **Instalador para macOS** com um único comando
+- 🍎 **Instalador para macOS** com um único comando e **atualização automática**: cada nova versão chega sozinha, sem tirar o painel do ar
 
 **Feito com**
 
