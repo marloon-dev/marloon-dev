@@ -1,60 +1,129 @@
 <div align="center">
 
-# Olá, eu sou o Marlon 👋
-
-**Desenvolvedor em formação · Engenharia de Software · Front-end e automação**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Olá, eu sou o Marlon. Desenvolvedor de software: apps nativos, web e automação. Swift, TypeScript, Rust e Python." src="assets/header-light.svg" width="100%">
+</picture>
 
 [![Seguir no GitHub](https://img.shields.io/github/followers/marloon-dev?label=Seguir&style=social)](https://github.com/marloon-dev)
-[![Visitas ao perfil](https://komarev.com/ghpvc/?username=marloon-dev&style=flat-square&label=Visitas&color=25D366)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Visitas ao perfil](https://komarev.com/ghpvc/?username=marloon-dev&style=flat-square&label=Visitas&color=8fbf2f)](https://github.com/antonkomarev/github-profile-views-counter)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marloon--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marloon-dev/)
 
 </div>
 
----
+<br>
 
-## 🚀 Novo projeto: W-AZAP
+<a href="https://marloon-dev.github.io/vm-guave/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/vm-guave/banner-dark.svg">
+    <img alt="Projeto em destaque: VM Guave. Outro sistema, sem sair do seu. Máquinas virtuais para Mac, Windows e Linux, grátis e de código aberto." src="assets/vm-guave/banner-light.svg" width="100%">
+  </picture>
+</a>
+
+<div align="center">
+
+[![Versão](https://img.shields.io/github/v/release/marloon-dev/vm-guave?style=for-the-badge&label=vers%C3%A3o&color=d93a62)](https://github.com/marloon-dev/vm-guave/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/marloon-dev/vm-guave/total?style=for-the-badge&label=downloads&color=8fbf2f)](https://github.com/marloon-dev/vm-guave/releases)
+[![Último commit](https://img.shields.io/github/last-commit/marloon-dev/vm-guave?style=for-the-badge&label=atualizado&color=2f9e6b)](https://github.com/marloon-dev/vm-guave/commits/main)
+[![Licença MIT](https://img.shields.io/github/license/marloon-dev/vm-guave?style=for-the-badge&label=licen%C3%A7a&color=4d5749)](https://github.com/marloon-dev/vm-guave/blob/main/LICENSE)
+
+</div>
+
+**VM Guave** é um gerenciador de máquinas virtuais que eu criei do zero. No Mac ele é um app nativo em Swift sobre o `Virtualization.framework` da Apple; no Windows e no Linux, um app em Tauri sobre o QEMU, com aceleração por hardware.
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### [W-AZAP — Gateway e painel de WhatsApp](https://github.com/marloon-dev/w-azap)
+#### 🍎 No Mac (Apple Silicon)
 
-Transforma o WhatsApp numa **API REST programável**, com um painel completo para gerenciar **várias contas ao mesmo tempo**. Feito para bots, automações e centrais de atendimento — e pode ser instalado no seu próprio servidor.
+- 🐧 VMs **Linux**, **macOS** e **Windows 11 ARM**
+- 📸 **Snapshots**, suspender e retomar, clonagem
+- 🔐 VM **criptografada** com AES-256
+- 🌐 Rede com **IP fixo** e diagrama da rede
+- ⚡ **Rosetta** para rodar programas x86_64 no Linux
+- ⌨️ Linha de comando **`bgctl`**
 
-[![Versão](https://img.shields.io/github/v/release/marloon-dev/w-azap?style=for-the-badge&label=vers%C3%A3o&color=25D366)](https://github.com/marloon-dev/w-azap/releases/latest)
-[![CI](https://img.shields.io/github/actions/workflow/status/marloon-dev/w-azap/ci.yml?branch=main&style=for-the-badge&label=CI)](https://github.com/marloon-dev/w-azap/actions/workflows/ci.yml)
-[![Último commit](https://img.shields.io/github/last-commit/marloon-dev/w-azap?style=for-the-badge&label=atualizado)](https://github.com/marloon-dev/w-azap/commits/main)
-[![Licença MIT](https://img.shields.io/github/license/marloon-dev/w-azap?style=for-the-badge&label=licen%C3%A7a)](https://github.com/marloon-dev/w-azap/blob/main/LICENSE)
+</td>
+<td width="50%" valign="top">
 
-- 📱 **Várias sessões** conectadas por QR code ou código de pareamento
-- 🔗 **API REST + webhooks** assinados com HMAC-SHA256 e documentação OpenAPI (Swagger)
-- 🤖 **Respostas automáticas**, agendador com cron e transmissões com proteção contra banimento
-- 📧 **Encaminhamento por e-mail** das conversas, com mídia anexada
-- 👥 **Multiusuário** com papéis (superadmin, dono e equipe)
-- 🎨 Tema **claro e escuro**, fotos de perfil e interface em **14 idiomas**
-- 🍎 **Instalador para macOS** com um único comando e **atualização automática**: cada nova versão chega sozinha, sem tirar o painel do ar
+#### 🪟 No Windows e 🐧 no Linux
 
-**Feito com**
+- 🚀 VMs aceleradas com **WHPX** (Windows) e **KVM** (Linux)
+- 📸 **Snapshots** e suspender
+- 🔌 **Redirecionamento de portas**
+- 📦 Instaladores `.exe`, `.msi`, `.deb`, `.rpm` e `.AppImage`
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Baileys](https://img.shields.io/badge/Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+#### ✨ Em todos
 
-[**Ver repositório →**](https://github.com/marloon-dev/w-azap) · [Novidades da última versão](https://github.com/marloon-dev/w-azap/releases/latest) · [Documentação da API](https://github.com/marloon-dev/w-azap/blob/main/docs/API_DOCUMENTATION.md) · [Manual do usuário](https://github.com/marloon-dev/w-azap/blob/main/docs/USER_GUIDE.md)
+- 🎨 Identidade da goiaba, nos temas **claro e escuro**
+- 🔄 **Atualização automática** pelas Releases
 
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vm-guave/app-overview-dark.png">
+  <img alt="Visão Geral do VM Guave: cartões de VMs, CPU e memória, gráfico de uso e atividade recente" src="assets/vm-guave/app-overview-light.png">
+</picture>
+<p align="center"><sub><b>Visão Geral</b>: uso do Mac e atividade recente</sub></p>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vm-guave/app-machines-dark.png">
+  <img alt="Lista de máquinas virtuais do VM Guave com busca, filtro por estado e ações" src="assets/vm-guave/app-machines-light.png">
+</picture>
+<p align="center"><sub><b>Máquinas Virtuais</b>: busca, filtros e ações</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vm-guave/app-images-dark.png">
+  <img alt="Catálogo de imagens do VM Guave com distribuições Linux, Windows 11 ARM e macOS" src="assets/vm-guave/app-images-light.png">
+</picture>
+<p align="center"><sub><b>Imagens</b>: distros, Windows 11 ARM e macOS</sub></p>
+</td>
+<td width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/vm-guave/app-network-dark.png">
+  <img alt="Tela de rede do VM Guave com diagrama da rede NAT e os IPs das máquinas" src="assets/vm-guave/app-network-light.png">
+</picture>
+<p align="center"><sub><b>Rede</b>: diagrama e IPs de cada VM</sub></p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Feito com**
+
+[![Feito com](https://skillicons.dev/icons?i=swift,rust,tauri,html,css,js&theme=dark)](https://github.com/marloon-dev/vm-guave)
+
+<sub>SwiftUI · Virtualization.framework · QEMU</sub>
+
+<br>
+
+[![Baixar para macOS](https://img.shields.io/badge/Baixar_para-macOS-1b2219?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/marloon-dev/vm-guave/releases/latest)
+[![Baixar para Windows](https://img.shields.io/badge/Baixar_para-Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/marloon-dev/vm-guave/releases/latest)
+[![Baixar para Linux](https://img.shields.io/badge/Baixar_para-Linux-2f9e6b?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/marloon-dev/vm-guave/releases/latest)
+
+[**🌐 Conhecer o site**](https://marloon-dev.github.io/vm-guave/) · [Ver repositório](https://github.com/marloon-dev/vm-guave) · [Novidades da última versão](https://github.com/marloon-dev/vm-guave/releases/latest)
+
+</div>
+
+> [!TIP]
+> É grátis e de código aberto. Se o VM Guave te ajudou, deixe uma ⭐ no [repositório](https://github.com/marloon-dev/vm-guave): isso me ajuda muito!
+
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software**.
-- 🛠️ Transformo meus estudos em projetos práticos, do site institucional ao gateway de WhatsApp.
-- 📚 Estudando **Python**, **JavaScript/TypeScript**, **HTML5**, **CSS3**, **Git** e **GitHub**, rumo ao Full Stack.
+- 🛠️ Transformo meus estudos em projetos práticos, do site institucional ao app nativo de máquinas virtuais.
+- 📚 Estudando **Swift**, **Python**, **JavaScript/TypeScript**, **Rust**, **Git** e **GitHub**, rumo ao Full Stack.
 - 🌱 Explorando novas tecnologias, lógica de programação e boas práticas de desenvolvimento.
 - 💼 Em busca da minha **primeira oportunidade** na área de desenvolvimento de software.
 
@@ -71,7 +140,7 @@ Transforma o WhatsApp numa **API REST programável**, com um painel completo par
 
 **Linguagens e frameworks**
 
-[![Linguagens e frameworks](https://skillicons.dev/icons?i=js,ts,html,css,py,react,nextjs,nodejs&theme=light)](https://skillicons.dev)
+[![Linguagens e frameworks](https://skillicons.dev/icons?i=swift,rust,tauri,js,ts,html,css,py,react,nextjs,nodejs&theme=light)](https://skillicons.dev)
 
 **Banco de dados e plataformas**
 
@@ -83,7 +152,7 @@ Transforma o WhatsApp numa **API REST programável**, com um painel completo par
 
 **Ferramentas de desenvolvimento e design**
 
-[![Ferramentas de desenvolvimento e design](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ai&theme=light)](https://skillicons.dev)
+[![Ferramentas de desenvolvimento e design](https://skillicons.dev/icons?i=xcode,vscode,pycharm,figma,ps,ai&theme=light)](https://skillicons.dev)
 
 ## 📫 Onde me encontrar
 
