@@ -152,7 +152,7 @@
 
 **Ferramentas de desenvolvimento e design**
 
-[![Ferramentas de desenvolvimento e design](https://skillicons.dev/icons?i=xcode,vscode,pycharm,figma,ps,ai&theme=light)](https://skillicons.dev)
+[![Ferramentas de desenvolvimento e design](https://skillicons.dev/icons?i=vscode,pycharm,figma,ps,ai&theme=light)](https://skillicons.dev)
 
 ## 📫 Onde me encontrar
 
